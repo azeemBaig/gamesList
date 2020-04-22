@@ -1,0 +1,17 @@
+.card-width {
+  width: 17rem;
+  margin: 10px;
+  background-color: #95dada;
+  border: 1px solid grey;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 25px;
+  -moz-osx-font-smoothing: grayscale;
+  transform: translateZ(0);
+  transition: transform 0.25 ease-out;
+  backface-visibility: hidden;
+}
+
+.card-width:hover {
+  transform: scale(1.05);
+}

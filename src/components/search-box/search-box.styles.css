@@ -1,0 +1,13 @@
+.search {
+  border: none;
+  outline: none;
+  width: 150px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  padding: 10px;
+  -webkit-appearance: none;
+}
+
+.search-center{
+  justify-content: center;
+}

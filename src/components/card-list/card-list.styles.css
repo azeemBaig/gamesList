@@ -1,0 +1,9 @@
+.display {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card-list-container {
+  margin: 10px auto;
+}
